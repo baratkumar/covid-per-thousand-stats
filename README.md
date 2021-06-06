@@ -1,1 +1,1 @@
-# covid-per-thousand-stats
+# Covid statistics on a scale of population per thousand.
